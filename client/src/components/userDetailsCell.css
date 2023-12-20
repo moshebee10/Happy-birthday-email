@@ -1,0 +1,11 @@
+.user-details-row {
+    justify-content: space-around;
+}
+.user-details-card {
+    width: 50vw;
+    margin-bottom: 10px;
+}
+.user-details-blessing-text-label {
+    display: flex;
+    flex-direction: row-reverse;
+}

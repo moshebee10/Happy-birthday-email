@@ -1,0 +1,11 @@
+.home-page-main {
+    background-image: url('../../public/assets/95620.jpg');
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
+.home-page-header {
+    color: rgb(184, 134, 11);
+    font-size: 50px;
+}
